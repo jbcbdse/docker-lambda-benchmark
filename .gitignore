@@ -1,0 +1,7 @@
+*.auto.tfvars
+dist/
+node_modules/
+s3.tfbackend
+scripts/env
+.terraform
+*.zip

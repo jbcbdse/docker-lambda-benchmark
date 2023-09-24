@@ -1,0 +1,2 @@
+FROM docker-lambda-benchmark:small
+ADD ./large-file.txt ./
