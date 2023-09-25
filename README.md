@@ -1,3 +1,5 @@
+[See blog post](https://jonbarnett.hashnode.dev/cold-starts-in-aws-lambda-with-container-images-in-2023)
+
 # Cold start times of Docker image AWS Lambda functions
 
 Use Terraform to initialize infrastructure. From the terraform directory:
